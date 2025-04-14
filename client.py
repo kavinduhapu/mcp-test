@@ -1,4 +1,7 @@
 # Create server parameters for stdio connection
+
+# Example from https://github.com/langchain-ai/langchain-mcp-adapters
+
 import asyncio
 import dotenv
 from mcp import ClientSession, StdioServerParameters
