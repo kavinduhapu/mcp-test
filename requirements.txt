@@ -4,3 +4,4 @@ langgraph==0.6.6
 langchain_openai==0.3.32
 mcp==1.13.1
 langchain-google-genai==2.1.10
+mcp-cli==0.9.8
