@@ -13,4 +13,13 @@ python3 weather_server.py
 python3 multiple_client.py
 ```
 
+## To list the tools using MCP inspector
+
+* Make sure NodeJs and npm are installed https://nodejs.org/en/download
+* Install MCP cli using pip `pip install mcp-cli`
+* Run the server using `python weather_server.py`
+* In another terminal run mcp inspector using `mcp dev weather_server.py`
+* This will open up web UI in your browser.
+* Go to tools section and click on list tools
+![alt text](<Screenshot from 2025-11-03 22-33-26.png>)
 
